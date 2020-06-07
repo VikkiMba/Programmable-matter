@@ -1,0 +1,11 @@
+Composition_and_Temperature,Extension,Force,Bubble colour,Composition
+0.75wt% at 740*C,1.62,480,blue,0.75wt%
+0.50wt% at 740*C,2.97,597,pink,0.50wt%
+0.25wt% at 700*C,3.17,674,red,0.25wt%
+0.25wt% at 780*C,2.87,430,cyan,0.25wt%
+0.75wt% at 700*C,3.12,720,green,0.75wt%
+control at 700*C, 3.25,587,yellow,control
+0.50wt% at 780*C,2.46,590,black,0.50wt%
+0.50wt% at 700*C,3.37,647,grey,0.50wt%
+0.25wt% at 740*C,3.30,640,purple,0.25wt%
+0.75wt% at 780*C,3.35,420,orange,0.75wt%
